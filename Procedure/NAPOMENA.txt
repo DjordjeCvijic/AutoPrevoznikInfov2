@@ -1,0 +1,1 @@
+Skripte za kreiranje uskladistenih procedura sa vec upisane i izvrsavaju se sa skriptom za kreiranje relacionih sema
